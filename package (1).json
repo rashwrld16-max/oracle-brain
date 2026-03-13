@@ -1,0 +1,12 @@
+{
+  "name": "oracle-brain",
+  "version": "1.0.0",
+  "description": "Oracle Brain Server — watches Deriv 24/7",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
